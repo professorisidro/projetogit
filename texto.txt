@@ -1,3 +1,4 @@
 Teste de Git
 Hello World
 vamos comecar com nosso primeiro arquivo de teste no Git/Github
+Agora coloquei nova linha porque estou trabalhando remoto aqui do Sul do País (o escritório hoje tá diferente)
